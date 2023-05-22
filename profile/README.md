@@ -2,7 +2,7 @@
 
 Our aim is to design, build and deploy a distributed solution that can capture, classify and provide a means to react to various road damages in realtime. Below, you'll find an overview of our projects and their respective functionalities.
 
-<!-- ## Projects
+## Projects
 
 <details>
   <summary>Capstone-RSD/rss-client</summary>
@@ -29,7 +29,7 @@ Our aim is to design, build and deploy a distributed solution that can capture, 
 
 - [Repository](https://github.com/Capstone-RSD/rsd-yolov5-model)
 - Description: This Python project focuses on detecting irregularities in road surfaces using computer vision techniques. It includes code for subscribing to events from Apache Kafka event streaming platform, performing infrencing on the image payload, storing the ouput in a graph database, and generating a pin on openstreetmaps for the dashboard application.
-</details> -->
+</details>
 
 ## Video Recordings
 <details>
