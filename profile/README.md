@@ -1,6 +1,6 @@
 # Welcome to the Capstone-RSD GitHub organization 👋! 
 
-Our aim is to design, build and deploy a distributed solution that can capture, classify and provide a means to react to various road damages in realtime. Below, you'll find an overview of our projects and their respective functionalities.
+Our aim is to design, build and deploy a distributed solution that can capture, classify and provide a means to react to various road damages in realtime. Below, you'll find an overview of our projects and their respective functionalities. It's a part of the Road Surface Deterioration 2023 Capstone project at Ontario Tech University.
 
 ## Projects
 
