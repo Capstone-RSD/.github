@@ -33,6 +33,15 @@ The following projects are a part of the Road Surface Deterioration 2023 Capston
 - Description: This Python project focuses on detecting irregularities in road surfaces using computer vision techniques. It includes code for subscribing to events from Apache Kafka event streaming platform, performing infrencing on the image payload, storing the ouput in a graph database, and generating a pin on openstreetmaps for the dashboard application.
 </details>
 
+ <details>
+  <summary>Capstone-RSD/rsd-src-generator</summary>
+ 
+### Capstone-RSD/rsd-src-generator
+
+- [Repository](https://github.com/Capstone-RSD/rsd-src-generator)
+- Description: This project is dedicated to generating source code from a protocol buffer schema. The repository includes an action workflow that will generate the source code and make available to download upon a push to the repository. The current working schema is [rss_schema.proto](https://github.com/Capstone-RSD/rsd-src-generator/blob/main/rss_schema.proto)
+</details>
+
 ## Video Recordings
 <details>
   <summary>Capstone-RSD/Capstone-Exhibition-Project Video Recording</summary>
