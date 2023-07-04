@@ -50,6 +50,8 @@ We have video recordings available that showcase the functionality and usage of 
 [<img src="https://img.youtube.com/vi/XeFbU0Z5jmM/maxresdefault.jpg" width="50%">](https://youtu.be/XeFbU0Z5jmM)
 </details>
 
+### Please find our final report on the project [here](https://github.com/Capstone-RSD/.github/blob/5dcef54c67f92570512f1e931794f94d70fab899/Road%20Surface%20Status%20Using%20Machine%20Learning%20Final%20Report.pdf)
+
 ## Contact Information
 
 If you have any questions, suggestions, or inquiries regarding our projects, feel free to reach out to us:
