@@ -43,7 +43,7 @@ The following projects are a part of the Road Surface Deterioration 2023 Capston
 </details>
 
 ## Video Recordings
-<details>
+<details open>
   <summary>Capstone-RSD/Capstone-Exhibition-Project Video Recording</summary>
 
 We have video recordings available that showcase the functionality and usage of our projects:
